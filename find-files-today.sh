@@ -1,1 +1,1 @@
-find . -path 'qn-1/submit.*'
+ls 
