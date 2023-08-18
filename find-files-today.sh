@@ -1,1 +1,1 @@
-find . 
+find . -name 'qn-1/submit.*'
